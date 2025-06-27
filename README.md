@@ -1,4 +1,4 @@
-# Task.4-Classification-with-Logistic-Regression-
+# Task.4-Classification-with-Logistic-Regression
 # What I Did (Steps):
 
 1. Loaded the dataset and checked basic info.
